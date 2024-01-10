@@ -1,3 +1,4 @@
+//https://usaco.guide/silver/more-prefix-sums?lang=cpp#2d-prefix-sums
 #include <iostream>
 #include <vector>
 
