@@ -1,3 +1,4 @@
+//O(n+m)
 vector<vector<int>> adj;  // adjacency list representation
 int n; // number of nodes
 int s; // source vertex
